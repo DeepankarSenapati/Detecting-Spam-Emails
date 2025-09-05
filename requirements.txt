@@ -1,0 +1,23 @@
+# Deep Learning Framework - Core library for building and training neural networks
+tensorflow>=2.10.0
+
+# Data Manipulation - For loading, processing, and analyzing email datasets
+pandas>=1.5.0
+
+# Numerical Computing - For mathematical operations and array manipulations
+numpy>=1.21.0
+
+# Data Visualization - For creating plots and charts to analyze data patterns
+matplotlib>=3.5.0
+
+# Statistical Visualization - For advanced statistical plots and data exploration
+seaborn>=0.11.0
+
+# Natural Language Processing - For text preprocessing, tokenization, and stopwords removal
+nltk>=3.7
+
+# Word Cloud Generation - For visualizing most frequent words in spam vs ham emails
+wordcloud>=1.9.0
+
+# Machine Learning Utilities - For train-test split, model evaluation, and preprocessing
+scikit-learn>=1.1.0
